@@ -49,3 +49,6 @@ Here are some ideas to get you started:
 ### Compute
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 
+## Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonsoobin05)](https://solved.ac/profile/yoonsoobin05)
