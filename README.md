@@ -1,6 +1,4 @@
 ### Hi, I'm Soobin 👋
-- ✉️ Email : name05 [at] gmail [dot] com
-- 🧪 Publications: [Google Scholar](https://scholar.google.com/citations?user=QwFE24sAAAAJ)
 <!--
 **yoonsoobinie/yoonsoobinie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
